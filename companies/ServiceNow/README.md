@@ -1,0 +1,1 @@
+ServiceNow: ServiceNow utilizes model cards to enhance transparency in their AI systems, providing details on model development, performance, and ethical considerations to foster trust and informed decision-making among stakeholders. https://www.servicenow.com/community/now-assist-articles/understanding-our-model-cards-and-their-role-in-responsible-ai/ta-p/2987812

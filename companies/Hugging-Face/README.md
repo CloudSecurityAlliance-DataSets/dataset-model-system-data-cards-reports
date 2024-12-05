@@ -1,0 +1,1 @@
+Hugging Face: Hugging Face offers model cards that document essential information about their machine learning models, such as performance metrics, intended use cases, and ethical considerations. They also provide a Model Card Guidebook to assist users in creating comprehensive documentation. https://huggingface.co/docs/hub/model-card-guidebook

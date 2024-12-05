@@ -1,0 +1,1 @@
+IBM: IBM has developed AI FactSheets, which provide comprehensive documentation of their AI models, including details on creation, deployment, purpose, dataset characteristics, and criticality. These FactSheets aim to manage AI governance across the company, allowing users to view models in production, development, and those needing validation. https://aifs360.res.ibm.com/
